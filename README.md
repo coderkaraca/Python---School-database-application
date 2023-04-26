@@ -1,1 +1,1 @@
-Database Class for Python and MySQL
+# Database Class for Python and MySQL
