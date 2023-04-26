@@ -1,1 +1,1 @@
-# Python---School-database-application
+# Python / School-database-application
