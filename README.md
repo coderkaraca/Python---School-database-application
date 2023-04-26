@@ -1,1 +1,1 @@
-# Python / School-database-application
+Database Class for Python and MySQL
