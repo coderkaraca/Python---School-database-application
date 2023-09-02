@@ -37,7 +37,7 @@ class Database:
 
 # Database sınıfından bir örnek oluşturur
 db = Database(host="localhost", user="root",
-              password="20355781Gk*", database="schooldb")
+              password="passww*", database="schooldb")
 # Veritabanına bağlanır
 db.connect()
 # SQL sorgusunu ve değerleri tanımlar
